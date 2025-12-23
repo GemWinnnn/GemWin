@@ -21,7 +21,7 @@ I'm a fourth-year computer science student at west visayas state university, spe
 Right now i'm trying to get better at understanding ai concepts beyond surface-level usage, managing sql databases properly, and making frontends that don't just work but actually feel nice to use.
 
 ## 📫 Find me here
-- [linkedin](https://www.linkedin.com/in/gem-win-cañete-aa75a6124/)
+- [linkedin](https://www.linkedin.com/in/gem-win-cañete-aa75a6124/). I need opportunities please!
 - [instagram](https://www.instagram.com/cntgwenn/)  
 - [website](YOUR_LINK)
 

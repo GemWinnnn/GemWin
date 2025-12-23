@@ -1,27 +1,34 @@
-## Hi! 👋 I’m Gem Win Cañete
+<div align="center">
+  
+# 👋 hey there, i'm gem! ✨
 
-I’m a 4th year computer science student specializing in artificial intelligence at  
-**West Visayas State University**.
+*building cool stuff with ai, one app at a time* 🚀
 
-I like building things that are useful, simple, and nice to look at. lately, i’ve been working on  
-**mobile apps**, learning about **ai agents**, and doing a bit of **ui/ux design**.  
-i usually use ai in my projects to help turn ideas into something more practical.
-
-## 🛠 Stuff i use
-**frontend** - flutter, swift, andreact
-**backend** - python and c++
-**database** - firebase
-**deployment** - vercel, and render
+</div>
 
 ---
-## 🌱 things i’m learning - i want to learn more on concepts of ai usage, sql management and do well with frontend design
+
+### 🌟 about me
+- 🎓 4th year CS @ West Visayas State University, specializing in AI
+- 📱 currently vibing with mobile apps & ai agents
+- 🎨 low-key into ui/ux design
+- 🤖 using ai to turn "what if" into "oh wow"
+
+### 💻 tech stack
+![Flutter](badge-url) ![Python](badge-url) ![Swift](badge-url)
+// use shields.io for badges
+
+### 🌱 learning journey
+> exploring ai concepts, sql mastery, and frontend magic ✨
 
 ---
-## 📫 reach me
-- linkedin: YOUR_LINK  
-- instagram: YOUR_LINK  
-- website: YOUR_LINK  
 
----
-## 📊 github stats
-![gem's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<div align="center">
+
+### 📫 let's connect!
+[LinkedIn](YOUR_LINK) • [Instagram](YOUR_LINK) • [Website](YOUR_LINK)
+
+### 📊 github vibes
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+</div>

@@ -17,12 +17,12 @@ I'm a fourth-year computer science student at west visayas state university, spe
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-## 🌱 What i'm learning
+## 🌱 What I'm learning
 Right now i'm trying to get better at understanding ai concepts beyond surface-level usage, managing sql databases properly, and making frontends that don't just work but actually feel nice to use.
 
 ## 📫 Find me here
-- [linkedin](YOUR_LINK)
-- [instagram](YOUR_LINK)  
+- [linkedin](https://www.linkedin.com/in/gem-win-cañete-aa75a6124/)
+- [instagram](https://www.instagram.com/cntgwenn/)  
 - [website](YOUR_LINK)
 
 ## 📊 github stats

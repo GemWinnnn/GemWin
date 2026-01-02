@@ -23,7 +23,7 @@ Right now i'm trying to get better at understanding ai concepts beyond surface-l
 ## 📫 Find me here
 - [linkedin](https://www.linkedin.com/in/gem-win-cañete-aa75a6124/). I need opportunities please!
 - [instagram](https://www.instagram.com/cntgwenn/)  
-- [website](YOUR_LINK)
+- [website](https://gemwin.framer.website)
 
 ## 📊 github stats
 ![gem's github stats](https://github-readme-stats.vercel.app/api?username=GemWinnnn&show_icons=true&theme=radical)
